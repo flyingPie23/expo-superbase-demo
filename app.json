@@ -31,6 +31,10 @@
         "projectId": "e75fa15e-576f-494b-9d7d-5dbc44b4c6ab"
       }
     },
-    "owner": "drissfreah"
+    "owner": "drissfreah",
+    "plugins": [
+      "expo-font",
+      "expo-asset"
+    ]
   }
 }
