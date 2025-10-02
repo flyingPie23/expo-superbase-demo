@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e75fa15e-576f-494b-9d7d-5dbc44b4c6ab"
+      }
+    },
+    "owner": "drissfreah"
   }
 }
